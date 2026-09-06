@@ -33,6 +33,11 @@ Select a time frame to fetch and summarize recent artificial intelligence news:
 - Monthly
 
 The generated summary is saved as a Markdown file in the `AINews` folder.
+![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/fe5bade1f413fdd5932a6b1f030393f9d87cfd92/Screenshot%20(10).png)
+![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/7562dec9fe1b0b56c3759d8bdc797b2b3b330984/Screenshot%20(11).png)
+![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/4ed7b76c6aea9c0fa04dd8c801de595856f68223/Screenshot%20(12).png)
+![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/4ed7b76c6aea9c0fa04dd8c801de595856f68223/Screenshot%20(13).png)
+
 
 ## Project Structure
 
@@ -58,10 +63,6 @@ Agentic_chatbot/
         └── ui/
             └── streamlitui/
 
-## ScreenShot
-![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/fe5bade1f413fdd5932a6b1f030393f9d87cfd92/Screenshot%20(10).png)
-![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/7562dec9fe1b0b56c3759d8bdc797b2b3b330984/Screenshot%20(11).png)
-![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/4ed7b76c6aea9c0fa04dd8c801de595856f68223/Screenshot%20(12).png)
-![image alt](https://github.com/Ankit8823/Agentic_chatbot/blob/4ed7b76c6aea9c0fa04dd8c801de595856f68223/Screenshot%20(13).png)
+ 
 
 
